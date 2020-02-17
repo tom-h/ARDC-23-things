@@ -20,9 +20,7 @@ Why is "clean” data important? Public policy, changes to medical
 protocols and economic decisions all depend on accurate and complete
 data. Thing 21 looks at the why and what of “dirty data.”
 
-1.  Pregnant men? Yes! Read some [real data horror
-    stories](http://www.relevategroup.com/blog/dirty-data-horror-stories-–-when-good-data-goes-bad "When good data goes bad: blog")
-    about dirty data.
+1.  
 2.  How does data get dirty in the first place? This [short
     video](http://aspcapro.org/resource/saving-lives-research-data/gis-video-what-makes-data-dirty "ASAPCA video")
     (5 min) from the ASPCA (American Society for Prevention of Cruelty
@@ -37,15 +35,12 @@ data. Thing 21 looks at the why and what of “dirty data.”
     Handbook](http://shop.oreilly.com/product/0636920024422.do#tab_04_2 "Bad Data handbook")
     also contains views of experts and practitioners in this area.
 
-Click into a few of the causes and solutions to dirty data - many of us
-contribute information to reports or do our home accounts in
-spreadsheets, and maybe it’s time to think about how clean our own data
-is.
+Click into a few of the causes and solutions to dirty data - many of us contribute information to reports or do our home accounts in spreadsheets, and maybe it’s time to think about how clean our own data is!
 
 **If you have time**: for a quick guide to working with spreadsheets,
 check out one of the School of Data’s [Data Fundamentals
 course](http://schoolofdata.org/courses/#DataFundamentals). The modules
-use real data from e.g. the World Bank.
+use real data from, for instance, the World Bank.
 
 **Consider:** the wide ranging implications of how dirty data can impact
 on your life.
@@ -67,7 +62,7 @@ Let’s start extracting tabular data from text-based PDFs. The
 PDFs](http://schoolofdata.org/extracting-data-from-pdfs/) module
 provides a brief overview of the different techniques used to extract
 data from PDFs, with a focus on introducing Tabula, a free open-source
-tool build for this specific task.
+tool built for this specific task.
 
 1.  Get ready: go to [Extracting Data From
     PDFs](http://schoolofdata.org/extracting-data-from-pdfs/)
@@ -82,19 +77,16 @@ tool build for this specific task.
 
 As much as we wish everything was available in CSV or the format of our
 choice – most data on the web is published in different forms. How do
-you extract data from HTML? Use a Scraper.
+you extract data from HTML? Use a web scraper!
 
-1.  Got to [Making data on the web useful:
+1.  Go to [Making data on the web useful:
     scraping](http://schoolofdata.org/handbook/courses/scraping/) and
-    follow the two ‘recipes’ to learn code-free Scraping in 5-10 minutes
+    follow the two ‘recipes’ to learn code-free web scraping in 5-10 minutes
     using Google Spreadsheets & Google Chrome
 
 (Note: Use the Google Chrome Extension “Scraper, by dvhtn”)
 
-A warning about web scraping: some websites have strict terms and
-conditions on the use of their content. In case of copyrighted
-materials, a user must obtain permission from copyright holders to reuse
-materials.
+A warning about web scraping: for those who intend to try web scraping, beware that some websites have strict terms and conditions on the use of their content.  In case of copyrighted materials, a user must obtain permission from copyright holders to reuse materials.
 
 **If you have time or just love data dabbling:**
 
@@ -104,15 +96,14 @@ creeping into your
 The School of Data have some really interesting [Data
 Cleansing](http://schoolofdata.org/courses/#IntroDataCleaning) modules.
 
-**Consider: **strategies for encouraging data to be published in more
+**Consider:** strategies for encouraging data to be published in more
 re-usable formats rather than PDF.
 
 ## Challenge me
 ### Roll up your sleeves: clean up dirty data
 
-OpenRefine (formerly Google Refine) is a valuable open source tool that
-is similar to Excel but more powerful. You can use it to: record data;
-manipulate data; clean up dirty data; and to transform datasets.
+OpenRefine is a valuable open source tool that looks a bit like excel, but is for different things.
+You can use it to take existing datasets and clean, transform and augment them.
 
 **Option 1: If you are new to OpenRefine**
 
