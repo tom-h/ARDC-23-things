@@ -29,11 +29,11 @@ twitter_username: ARDC_AU
 github_username:  au-research
 # Build settings
 theme: minima
-permalink: /researchdata/:name
 collections:
   things:
     output: true
     sort_by: thing
+permalink: /researchdata/:name
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
